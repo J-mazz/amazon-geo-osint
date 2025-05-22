@@ -1,0 +1,6 @@
+sentinelsat
+sentinelhub
+shapely
+rasterio
+numpy
+
